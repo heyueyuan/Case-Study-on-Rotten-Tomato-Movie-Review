@@ -1,7 +1,0 @@
-,Name,Key hyperparameters tuned,Model performance,"Estimate of time(n=nums,d=dimension,k=neighbor nums)"
-0,Naive Bayes,"{'priors': (0.1, 0.9), 'var_smoothing': 1e-09}",0.7035437946632173, O（n * d）
-1,KNN,"{'leaf_size': 30, 'n_neighbors': 30}",0.7272779018016658,O（knd）
-2,LinearSVM,{'C': 0.5},0.7318177793641947,O（n）
-3,Non_linearSVM,{'C': 0.5},0.7318177793641947,O（n）
-4,Ramdom Forest,"{'priors': (0.1, 0.9), 'var_smoothing': 1e-09}",0.7035437946632173,O(n*log(n)*d*k)
-5,Gradient Boosting,"{'priors': (0.1, 0.9), 'var_smoothing': 1e-09}",0.7035437946632173,O(n*log(n)*d*k)
