@@ -1,7 +1,6 @@
 # Case-Study-on-Rotten-Tomato-Movie-Review
 This is a project which my teammates and me did in IST 707(Data Analytics) at Syracuse University.
 
-Dash App Link-https://movie-feedback-analysis.herokuapp.com/
 
 ## Introduction
 Rotten Tomatoes staff first collect online reviews from writers who are certified members of various writing guilds or film critic-associations. To be accepted as a critic on the website, a critic's original reviews must garner a specific number of "likes" from users. Those classified as "Top Critics" generally write for major newspapers. The critics upload their reviews to the movie page on the website, and need to mark their review "fresh" if it's generally favorable or "rotten" otherwise. It is necessary for the critic to do so as some reviews are qualitative and do not grant a numeric score, making it impossible for the system to be automatic.
